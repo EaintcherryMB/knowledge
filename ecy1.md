@@ -1,12 +1,10 @@
 <div style="
-    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('shop.bg.jpeg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('https://raw.githubusercontent.com/EaintcherryMB/knowledge/main/shop.bg.jpeg');
     background-size: cover;
     background-position: center;
     padding: 40px 20px;
     text-align: center;
-    border-radius: 10px;
     color: #333;
-    font-family: sans-serif;
     line-height: 1.8;
 ">
 
@@ -22,4 +20,3 @@
 <p>🙏🙏🙏•••🙏🙏🙏•••🙏🙏🙏</p>
 
 </div>
-
